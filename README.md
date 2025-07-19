@@ -1,2 +1,1 @@
-# DeviceCloud_Frimware
-ESP32 frimware library for IOT devices using WiFi and MQTT,compatible with DeviceCloud_Backend and any other MQTT_enabled IOT platform.
+Lightweight and modular frimmware library built for the ESP32 platform. It simplifies the development of IoT devices by providing easy-to-use components for Wi-Fi connectivity, MQTT communication, and actuator control.
